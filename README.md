@@ -1,2 +1,4 @@
-# RentZendTest
-RentZend’s Engineering Team Interview session
+## Start server
+node server
+## Start Frontend 
+npm start
